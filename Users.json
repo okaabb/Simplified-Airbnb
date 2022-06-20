@@ -1,0 +1,57 @@
+[
+    {
+        "age": 20,
+        "email": "admin@test.com",
+        "full_Name": "admin",
+        "gender": 109,
+        "id": 4,
+        "nationality": "egyptian",
+        "password": "admin",
+        "phone": "0123456789",
+        "type": 3
+    },
+    {
+        "age": 19,
+        "email": "haidyhassan@test.com",
+        "full_Name": "haidy hassan",
+        "gender": 102,
+        "id": 5,
+        "nationality": "epyption",
+        "password": "haidy1234",
+        "phone": "07775000",
+        "type": 1
+    },
+    {
+        "age": 20,
+        "email": "ahmedkassem@test.com",
+        "full_Name": "ahmed kassem",
+        "gender": 109,
+        "id": 6,
+        "nationality": "egyption",
+        "password": "ahmed123",
+        "phone": "0123456789",
+        "type": 2
+    },
+    {
+        "age": 19,
+        "email": "nour@test.com",
+        "full_Name": "nour",
+        "gender": 102,
+        "id": 7,
+        "nationality": "egyption",
+        "password": "nour1234",
+        "phone": "0100546859",
+        "type": 1
+    },
+    {
+        "age": 19,
+        "email": "mariam@test.com",
+        "full_Name": "mariam alaa",
+        "gender": 102,
+        "id": 8,
+        "nationality": "egyption",
+        "password": "mariam1234",
+        "phone": "01548965235",
+        "type": 2
+    }
+]

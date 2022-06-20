@@ -1,0 +1,28 @@
+[
+    {
+        "beds": 3,
+        "city_id": 1,
+        "created_at": {
+            "day": 31,
+            "month": 5,
+            "year": 2022
+        },
+        "desc": "place test description ",
+        "end_date": {
+            "day": 20,
+            "month": 6,
+            "year": 2023
+        },
+        "guests": 2,
+        "host_id": 5,
+        "place_id": 1,
+        "price": 600.0,
+        "start_date": {
+            "day": 20,
+            "month": 6,
+            "year": 2022
+        },
+        "title": "Test place 1",
+        "type": 2
+    }
+]

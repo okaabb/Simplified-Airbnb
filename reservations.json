@@ -1,0 +1,22 @@
+[
+    {
+        "created_at": {
+            "day": 31,
+            "month": 5,
+            "year": 2022
+        },
+        "end_date": {
+            "day": 15,
+            "month": 7,
+            "year": 2022
+        },
+        "place_id": 1,
+        "reservation_id": 1,
+        "start_date": {
+            "day": 30,
+            "month": 6,
+            "year": 2022
+        },
+        "traveler_id": 6
+    }
+]
